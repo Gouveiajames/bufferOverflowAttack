@@ -1,2 +1,2 @@
 # bufferOverflowAttack
-Buffer Overflow Attack lab report- Simulated buffer over attack lab
+Buffer Overflow Attack lab report- Simulated buffer overflow attack lab
